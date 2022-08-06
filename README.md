@@ -1,1 +1,1 @@
-alura_ecom/index.html
+http://alura_ecom/index.html
