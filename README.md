@@ -1,1 +1,1 @@
-http://AluraGeek-e-commerce-main/inde.html
+http://AluraGeek-e-commerce-main/index.html
