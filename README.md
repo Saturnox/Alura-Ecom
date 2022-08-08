@@ -1,1 +1,1 @@
-http://AluraGeek-e-commerce-main/index.html
+http://saturnox.github.io/AluraGeek-e-commerce-main/index.html
